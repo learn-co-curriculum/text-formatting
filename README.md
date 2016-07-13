@@ -2,7 +2,7 @@
 
 <iframe width="640" height="480" src="//www.youtube.com/embed/toswcv5oj9I?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe>
 
-<p><a href="https://www.youtube.com/watch?v=toswcv5oj9I">Text Formatting</a></p>.
+<p><a href="https://www.youtube.com/watch?v=toswcv5oj9I">Alternate video link</a>.</p>
 
 **Note that you may see some fancy autocomplete actions in this video**. These are accomplished through keyboard shortcuts that have already been set up! To get the most comprehensive autocomplete functionality, consider using a Sublime  "package", which is basically what Sublime calls extensions.
 
